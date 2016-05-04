@@ -1,0 +1,1 @@
+java -cp ./bin/:./lib/jxbrowser-6.3.jar:./lib/jxbrowser-mac-6.3.jar:./lib/license.jar jxbrowser.javafx.HelloMultiBrowser
